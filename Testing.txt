@@ -1,3 +1,9 @@
 Hellow this is my esting branch file
 
 The new changes are added in the feat/test-change branch
+
+To delete the Remote branch 
+git push origin --delete feat/test-change
+
+To delete the Local branch 
+git branch -d feat/test-change
