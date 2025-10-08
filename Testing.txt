@@ -1,4 +1,4 @@
-Hellow this is my esting branch file
+Hellow this is my testing branch file
 
 The new changes are added in the feat/test-change branch
 
@@ -7,3 +7,13 @@ git push origin --delete feat/test-change
 
 To delete the Local branch 
 git branch -d feat/test-change
+
+Creating the request from the fork repo 
+Follow the same step --->
+->Make cone of the repo 
+->Make the new bramch and then make changes to your branch 
+->add ,commit ,push to your repo first 
+
+Push the new branch Also to your repo to set the upstream 
+git push -u origin bug/spelling-mistake
+
