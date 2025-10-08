@@ -7,3 +7,10 @@ git push origin --delete feat/test-change
 
 To delete the Local branch 
 git branch -d feat/test-change
+
+Creating the request from the fork repo 
+Follow the same step --->
+->Make cone of the repo 
+->Make the new bramch and then make changes to your branch 
+->add ,commit ,push to your repo first 
+
